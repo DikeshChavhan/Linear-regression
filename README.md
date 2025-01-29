@@ -1,1 +1,6 @@
 
+OUTPUT :-
+
+Mean Squared Error: 827777777.777782
+Coefficients: [1.33333333e+01 6.66666667e+04 6.66666667e+04]
+Intercept: -19999.999999999767
